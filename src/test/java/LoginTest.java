@@ -6,6 +6,6 @@ public class LoginTest {
 
     @Test
     public void login() {
-        open("");
+        open("https://yandex.ru/");
     }
 }
