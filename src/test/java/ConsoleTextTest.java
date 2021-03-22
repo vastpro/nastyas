@@ -6,6 +6,7 @@ public class ConsoleTextTest {
     public void outputText(){
         System.out.println("Hello from A.Tonkikh!");
         System.out.println("To A.Weise!");
+        System.out.println("Hello to A.Tonkikh");
     }
 
 }
